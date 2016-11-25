@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OcrDemo</string>
+    <string name="capture_btn_label">Capture</string>
+    <string name="text_btn_label">Text</string>
 </resources>
